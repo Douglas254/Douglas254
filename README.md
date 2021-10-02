@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Douglas Obara </h1>
 ***
 <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" height="200">
 
@@ -9,7 +9,9 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Douglas__Obara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglasObara" height="30" width="40" /></a>
+    <a href="https://codepen.io/douglas254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/douglas-obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
+    <a href="https://twitter.com/Douglas__Obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
