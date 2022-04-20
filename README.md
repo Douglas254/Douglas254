@@ -20,8 +20,8 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas254&layout=compact&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
   
 </p>         
-<a href="https://github.com/lynnemunini/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglas254&show_icons=true&theme=radical" width="405" height="300"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas254&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="405" height="300"/>
+<a align="center" href="https://github.com/lynnemunini/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=douglas254&show_icons=true&theme=radical" width="405"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas254&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="405"/>
 </a>
 
 ## :rainbow: Good luck with your day!
