@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Douglas Obara </h1>
+### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px"> I'm Douglas Obara </h1>
 ***
 <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" height="200">
 
