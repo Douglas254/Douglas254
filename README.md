@@ -35,8 +35,8 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
     <a href="https://www.docker.com/" target="_blank" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &thinsp;&thinsp;&thinsp; 
     <a href="https://heroku.com" target="_blank" title="Heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
     <a href="https://www.netlify.com/" target="_blank" title="Netlify"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
-
----</a>  
+    
+---
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas254&layout=compact&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
