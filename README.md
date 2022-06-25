@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px"> I'm Douglas Obara </h1>
 ***
 <a href="https://github.com/Douglas254/Douglas254">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210" height="200">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254/Douglas254"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254/Douglas254"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210" height="200">
 </a>
 
 I'm an Information Technology(IT) enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Jurisdiction.
