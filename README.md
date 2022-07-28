@@ -11,11 +11,15 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/douglas254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/douglas-obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
-    <a href="https://twitter.com/Douglas__Obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+    <a href="https://codepen.io/douglas254" target="blank" title="Codepen"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>&thinsp;&thinsp;&thinsp;
+    <a href="https://linkedin.com/in/douglas-obara" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>&thinsp;&thinsp;&thinsp;
+    <a href="https://twitter.com/Douglas__Obara" target="blank" title="Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Badges:</h3>
+<div align="left">
+  <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
