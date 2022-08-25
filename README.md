@@ -44,13 +44,13 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
     
 ---
 
-<p align='center'>
+<a href="http://www.github.com/douglas254"><p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas254&layout=compact&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
   
-</p>   
-<p align="center">
+</p> </a> 
+<a href="http://www.github.com/douglas254"><p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=douglas254&show_icons=true&theme=radical" width="405"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas254&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="405"/>
-</p>
+</p></a>
 
 <a href="http://www.github.com/douglas254"><img src="https://activity-graph.herokuapp.com/graph?username=douglas254&bg_color=1c1917&color=b0ff05&line=A7F9F6&point=F9CF2E&area_color=1c1917&area=true&hide_border=true&custom_title=Douglas%20Obara's%20GitHub%20Commits%20Graph" alt="Douglas Obara GitHub Commits Graph" /></a>
 
