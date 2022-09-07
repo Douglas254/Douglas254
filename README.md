@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px"> I'm Douglas Obara </h1>
 ***
-<a href="https://github.com/Douglas254/Douglas254">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254/Douglas254"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254/Douglas254"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210" height="200">
+<a href="https://github.com/Douglas254">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210" height="200">
 </a>
 
 I'm an Information Technology(IT) enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Jurisdiction.
@@ -18,7 +18,7 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
 
 <h3 align="left">Badges:</h3>
 <div align="left">
-  <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>
+  <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2e6ad7cf-487e-4c88-9e39-8f9e31b1c767" title="Software Engineering: Micro-Credential Career Track in Web Development (Boot Camp)"> <img src="https://images.credly.com/size/340x340/images/429c836e-40c9-4328-85f3-c4af5eafe632/image.png" width="10%"/> </a>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -34,13 +34,14 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
     <a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="postman" width="40" height="40"/> </a> &thinsp;&thinsp;&thinsp;
      <a href="https://www.postgresql.org/" target="_blank" title="Postgresql"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
     <a href="https://www.php.net" target="_blank" title="PhP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &thinsp;&thinsp;&thinsp;
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.sqlite.org/" target="_blank" title="SQLite"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
     <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;  
     <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter notebook" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
-     <a href="https://wordpress.com/" target="_blank" title="Wordpress"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="jupyter notebook" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
+     <a href="https://wordpress.com/" target="_blank" title="Wordpress"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
     <a href="https://www.docker.com/" target="_blank" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &thinsp;&thinsp;&thinsp; 
     <a href="https://heroku.com" target="_blank" title="Heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
-    <a href="https://www.netlify.com/" target="_blank" title="Netlify"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+    <a href="https://www.netlify.com/" target="_blank" title="Netlify"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
+    <a href="https://vercel.com/" target="_blank" title="Vercel"> <img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg" alt="Vercel" width="40" height="40"/> </a> </p>
     
 ---
 
