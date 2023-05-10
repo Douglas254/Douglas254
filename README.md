@@ -4,10 +4,11 @@
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"></a><a href="https://github.com/Douglas254"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210" height="200">
 </a>
 
-I'm an Information Technology(IT) enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Jurisdiction.
-My areas of interest are :chart_with_upwards_trend:Software Engineering, :slot_machine:Data Structures and :globe_with_meridians:Research
+<h3 align="left">About Me:</h3>
+Passionate IT :computer: professional with a knack for problem-solving and a love for all things in tech. Experienced in various aspects of information technology, I thrive in dynamic environments where I can apply my expertise to enhance efficiency and drive innovation. From system administration to software development :slot_machine:, 
 
-I like hiking, listening to reggae music :musical_note: and dancing to the tune :dancers:.I currently live in Nairobi, Kenya.
+I'm always eager to expand my skills and stay up-to-date with the latest industry trends 📈. Let's collaborate and create technology solutions that make a difference! 👨‍💻
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,8 +55,6 @@ I like hiking, listening to reggae music :musical_note: and dancing to the tune 
  <img src="https://github-readme-stats.vercel.app/api?username=douglas254&show_icons=true&theme=radical" width="405"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas254&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" width="405"/>
 </p></a>
 
-<a href="http://www.github.com/douglas254"><img src="https://activity-graph.herokuapp.com/graph?username=douglas254&bg_color=1c1917&color=b0ff05&line=A7F9F6&point=F9CF2E&area_color=1c1917&area=true&hide_border=true&custom_title=Douglas%20Obara's%20GitHub%20Commits%20Graph" alt="Douglas Obara GitHub Commits Graph" /></a>
 
-
-## :rainbow: Good luck with your day!
+## :rainbow: Good luck with your day! 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=douglas254&color=blueviolet alt=douglas254/></p>
