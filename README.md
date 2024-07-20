@@ -13,13 +13,14 @@ I'm always eager to expand my skills and stay up-to-date with the latest industr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/douglas254" target="blank" title="Codepen"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="douglas254" height="30" width="40" /></a>&thinsp;&thinsp;&thinsp;
-    <a href="https://linkedin.com/in/douglas-obara" target="blank" title="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="douglas254" height="30" width="40" /></a>&thinsp;&thinsp;&thinsp;
-    <a href="https://twitter.com/Douglas__Obara" target="blank" title="Twitter"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="douglas254" height="35" width="42" /></a>&thinsp;&thinsp;&thinsp;<a href="https://wa.me/+254742608717" target="blank" title="WhatsApp"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="douglas254" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/douglas-obara" target="blank" title="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="douglas254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Badges:</h3>
 <div align="left">
   <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2e6ad7cf-487e-4c88-9e39-8f9e31b1c767" title="Software Engineering: Micro-Credential Career Track in Web Development (Boot Camp)"> <img src="https://images.credly.com/size/340x340/images/429c836e-40c9-4328-85f3-c4af5eafe632/image.png" width="10%"/> </a>
+&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/e8484ff9-eef6-4b25-b888-2f94c6d4c8e5" title="All In Africa Open Source Contributor"> <img src="https://images.credly.com/size/110x110/images/29a78b47-f277-4580-89f1-22707b25cee7/image.png" width="11%"/> </a>
+
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,7 +44,7 @@ I'm always eager to expand my skills and stay up-to-date with the latest industr
     <a href="https://www.docker.com/" target="_blank" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &thinsp;&thinsp;&thinsp; 
     <a href="https://heroku.com" target="_blank" title="Heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
     <a href="https://www.netlify.com/" target="_blank" title="Netlify"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> </a>&thinsp;&thinsp;&thinsp;
-    <a href="https://vercel.com/" target="_blank" title="Vercel"> <img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg" alt="Vercel" width="40" height="40"/> </a> </p>
+    <a href="https://vercel.com/" target="_blank" title="Vercel"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> </a> </p>
     
 ---
 
