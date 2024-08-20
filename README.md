@@ -1,3 +1,5 @@
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=douglas254&color=blueviolet alt=douglas254/></p>
+
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px"> I'm Douglas Obara </h1>
 ***
 <a href="https://github.com/Douglas254">
@@ -18,8 +20,12 @@ I'm always eager to expand my skills and stay up-to-date with the latest industr
 
 <h3 align="left">Badges:</h3>
 <div align="left">
-  <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/2e6ad7cf-487e-4c88-9e39-8f9e31b1c767" title="Software Engineering: Micro-Credential Career Track in Web Development (Boot Camp)"> <img src="https://images.credly.com/size/340x340/images/429c836e-40c9-4328-85f3-c4af5eafe632/image.png" width="10%"/> </a>
-&thinsp;&thinsp;&thinsp;<a href="https://www.credly.com/badges/e8484ff9-eef6-4b25-b888-2f94c6d4c8e5" title="All In Africa Open Source Contributor"> <img src="https://images.credly.com/size/110x110/images/29a78b47-f277-4580-89f1-22707b25cee7/image.png" width="11%"/> </a>
+  <a href="https://www.credly.com/badges/e1055ffe-b31b-4896-8792-9de22e09f557?source=linked_in_profile" title="Communication, Networking & Collaboration in the Workplace"> <img src="https://images.credly.com/size/340x340/images/37797389-aa83-4de6-86d4-a1c54b5cbeb3/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;
+    <a href="https://www.credly.com/badges/2f892771-c48a-44ea-bcd9-743002880f41?source=linked_in_profile" title="Leadership Techniques for Success in the Workplace"> <img src="https://images.credly.com/size/340x340/images/dab66f9c-9af3-44b0-8245-b5259141d22b/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;
+    <a href="https://www.credly.com/badges/1d56c451-c9da-475d-b28b-c1efa33b4779?source=linked_in_profile" title="Critical Thinking & Resilience Skills for Technology Professionals"> <img src="https://images.credly.com/size/340x340/images/cee25266-ab4a-44d9-8db7-1c75e920f92f/image.png" width="10%"/> </a>&thinsp;&thinsp;&thinsp;
+    <a href="https://www.credly.com/badges/2e6ad7cf-487e-4c88-9e39-8f9e31b1c767" title="Software Engineering: Micro-Credential Career Track in Web Development (Boot Camp)"> <img src="https://images.credly.com/size/340x340/images/429c836e-40c9-4328-85f3-c4af5eafe632/image.png" width="10%"/> </a>
+&thinsp;&thinsp;&thinsp;
+    <a href="https://www.credly.com/badges/e8484ff9-eef6-4b25-b888-2f94c6d4c8e5" title="All In Africa Open Source Contributor"> <img src="https://images.credly.com/size/110x110/images/29a78b47-f277-4580-89f1-22707b25cee7/image.png" width="11%"/> </a>
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
@@ -58,4 +64,4 @@ I'm always eager to expand my skills and stay up-to-date with the latest industr
 
 
 ## :rainbow: Good luck with your day! 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=douglas254&color=blueviolet alt=douglas254/></p>
+
